@@ -1,2 +1,3 @@
-# ping-pong-game
+# Ping Pong
+
 A ping pong game.
